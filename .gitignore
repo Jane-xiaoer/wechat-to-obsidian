@@ -1,0 +1,24 @@
+# Decrypted DBs / keys — NEVER commit
+*.db
+*.db-*
+*.key
+*_keys.log
+*_decrypted*
+/tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
