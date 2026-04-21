@@ -137,3 +137,22 @@ MIT
 ## ⚠️ Legal
 
 Use this only on your own WeChat data. Do not use to extract data from devices or accounts you don't own. The authors assume no liability for misuse.
+
+---
+
+## 📱 关注作者 / Follow Me
+
+如果这个仓库对你有帮助，欢迎关注我。后面我会持续更新更多 AI Skill、知识管理、Obsidian 工作流和个人自动化系统。
+
+If this repo helped you, follow me for more AI skills, knowledge capture, Obsidian workflows, and personal automation systems.
+
+- X (Twitter): [@xiaoerzhan](https://x.com/xiaoerzhan)
+- 微信公众号 / WeChat Official Account: 扫码关注 / Scan to follow
+
+<p align="center">
+  <img src="./follow-wechat-qrcode.jpg" alt="Jane WeChat Official Account QR code" width="300" />
+</p>
+
+<p align="center"><strong>中文：</strong>欢迎关注我的公众号，一起研究 AI Skill、知识沉淀、Obsidian 工作流和自动化实践。</p>
+
+<p align="center"><strong>English:</strong> Follow my WeChat Official Account for more AI skills, knowledge capture, Obsidian workflows, and automation ideas.</p>
